@@ -1,2 +1,3 @@
-# Practica2
-Segunda Practica de la materia de Lenguajes de Programacion 
+# Practica2-Lenguajes de Programacion
+##  Calculadora RPN
+## Integrantes:
