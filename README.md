@@ -1,8 +1,7 @@
 # Calculadora_RPN_HASKEL
 Practica 2 de lenguajes 
 En la siguiente practica se pone en practica los conceptos adquiridos del paradigma del lenguaje funcional 
-La calculodra tienes las sguientes funcionalidades
-1.Suma de dos números
+La calculodra tienes las sguientes funcionalidades 1.Suma de dos números
 2.Resta de dos numeros
 3.division entre dos numeros
 4.Multiplicacion de dos números
