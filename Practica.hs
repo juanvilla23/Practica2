@@ -22,10 +22,10 @@ condnumero num
 
     
 main = do
- print(solveRPN "10 4 3 2 + +")
- print(solveRPN "20 5 4 2 - -")
- print(solveRPN "190 5 2 4 * *")
- print(solveRPN "70 5 6 4 / /")
+ print(solveRPN "2 4 5 6 + +")
+ print(solveRPN "10 9 4 5 - -")
+ print(solveRPN "23 57 58 89 * *")
+ print(solveRPN "25 4 8 9 / /")
  print(solveRPN "10 16 raiz2")
  print(solveRPN "10 16 raiz2 +")
  print(solveRPN "10 67 neg1 +")
@@ -34,4 +34,4 @@ main = do
  print(solveRPN "10 3 condnumero")
  print(solveRPN "10 67 15 sum")
  print(solveRPN "10 16 10 productoTotal")
- print(solveRPN "120 20 40 120 totalPromedio")
+ print(solveRPN "120 20 40 12 totalPromedio")
