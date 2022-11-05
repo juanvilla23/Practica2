@@ -22,7 +22,6 @@ condnumero num
 
     
 main = do
- putStrLn "la calculadora del panita"
  print(solveRPN "10 4 3 2 + +")
  print(solveRPN "20 5 4 2 - -")
  print(solveRPN "190 5 2 4 * *")
