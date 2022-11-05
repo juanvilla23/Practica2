@@ -16,7 +16,7 @@ En la siguiente practica se pone en practica los conceptos adquiridos del paradi
 
 
 
-## Miembros
+## Autor
 **- <a href="https://github.com/juanvilla23">Juan Camilo Villa Correa</a>**
 
 
